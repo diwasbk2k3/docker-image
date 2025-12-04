@@ -12,7 +12,7 @@ app.get("/users", (req, res)=>{
                 id: "230185",
                 name: "diwas bk",
                 address: "gulmi",
-                status: "single"
+                education: "bachelor"
             }
         ]
     )
